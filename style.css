@@ -1,0 +1,9 @@
+body{
+    background-image:url("Weather.jpg");
+    background-size: cover;
+}
+
+.card-body{
+    background-image: url("cloud.jpg");
+    background-size: cover;
+}
